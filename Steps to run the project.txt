@@ -1,0 +1,9 @@
+Steps to run the project:
+
+1. Open the project folder
+2. In the terminal, navigate to folder backend folder
+	Run command - npm install
+	Run backend - node index.js
+3. Open another terminal, navigate to frontend folder
+	Run command - npm install
+	Run frontend - npm start
